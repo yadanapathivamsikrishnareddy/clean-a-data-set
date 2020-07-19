@@ -1,5 +1,5 @@
 # clean-a-data-set
-eer-graded Assignment: Getting and Cleaning Data Course Project (Coursera)
+Peer-graded Assignment: Getting and Cleaning Data Course Project (Coursera)
 Instructions for this assignment were:
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. Review criterialess
 
